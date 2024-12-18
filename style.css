@@ -1,0 +1,15 @@
+img{width:300px;}
+
+body{
+    color:aliceblue;
+    background:url(https://adventurephotography.forest2sea.com/wp-content/uploads/sites/3/nggallery/rainforest-landscapes-3/SFM_3253.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+.main{width:300px;margin:0 auto;
+background:rgb(42, 66, 54);
+padding:15px;}
+
+    h1{
+    color:aliceblue;
+}
+}
